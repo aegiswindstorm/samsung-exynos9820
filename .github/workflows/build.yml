@@ -45,7 +45,7 @@ jobs:
                      model=${{ matrix.model }} \
                      name="ETCRUEL-v3.8"         \
                      toolchain=$TOOLCHAIN      \
-                     +magisk=v20.4              \
+                     +magisk=v21.0             \
                      +nohardening              \
                      +ttl                      \
                      +wireguard                \
