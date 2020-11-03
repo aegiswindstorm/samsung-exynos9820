@@ -56,7 +56,7 @@ jobs:
                      +boeffla_wl_blocker       \
                      +300hz                    \
                      +noatime                  \
-                     +io_anxiety               \
+                     +io_maple                 \
                      +tcp_westwood             \
                      
         2>&1 | tee config.info
